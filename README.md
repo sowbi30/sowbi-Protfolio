@@ -1,1 +1,1 @@
-https://portfolio-sowbi.netlify.app/
+https://sowbi-portfolio.netlify.app/

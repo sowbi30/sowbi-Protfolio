@@ -1,1 +1,1 @@
-demo : https://sowbaranika-protfolio.netlify.app/
+https://portfolio-sowbi.netlify.app/
